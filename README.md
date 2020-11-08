@@ -28,5 +28,5 @@
 
 <br />
 
-[![Spotify](https://novatorem-beta-drab.vercel.app/api/spotify)](https://open.spotify.com/user/teb7cojq5zlfkw944poixefxd?si=-jAjz47KRNS0wLP8DswAFQ)
+[![Spotify](https://novatorem-beta-drab.vercel.app/api/spotify)](https://open.spotify.com/user/teb7cojq5zlfkw944poixefxd/playlists)
 
