@@ -16,7 +16,7 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 
-
+<br/>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanBarande&exclude_repo=wasis&theme=gruvbox" />
