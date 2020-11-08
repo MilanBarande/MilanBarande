@@ -26,3 +26,7 @@
 <img align="left" src="https://github-readme-stats-gray-nine.vercel.app/api/top-langs/?username=MilanBarande&exclude_repo=wasis&theme=gruvbox" />
 <img align="left" src="https://github-readme-stats-gray-nine.vercel.app/api?username=MilanBarande&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=gruvbox" />
 
+<br />
+
+[![Spotify](novatorem-beta-drab.vercel.app/api/spotify)](https://open.spotify.com/user/teb7cojq5zlfkw944poixefxd?si=-jAjz47KRNS0wLP8DswAFQ)
+
