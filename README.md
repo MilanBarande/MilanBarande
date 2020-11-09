@@ -21,6 +21,3 @@
 
 <img align="left" src="https://github-readme-stats-gray-nine.vercel.app/api/top-langs/?username=MilanBarande&exclude_repo=wasis" />
 <img align="left" src="https://github-readme-stats-gray-nine.vercel.app/api?username=MilanBarande&hide=stars,issues,contribs&count_private=true&show_icons=true" />
-
-[![Spotify](https://https://novatorem.milanbarande.vercel.app/api/spotify)](https://open.spotify.com/user/teb7cojq5zlfkw944poixefxd/playlists)
-
