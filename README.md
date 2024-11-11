@@ -23,3 +23,4 @@ I'm excited by technical challenges across all industries, as each brings unique
 🎵 Music  
 🏃‍♂️ Sports  
 🏛️ Public Services Digitalization  
+🍴 FoodTech  
