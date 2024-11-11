@@ -1,55 +1,25 @@
-### Stack
+👋 Hi, I'm Milan
 
+Senior Frontend Engineer with 7+ years of experience crafting web and mobile experiences. Currently based in Amsterdam 🇳🇱
 
+🚀 About Me
 
-<div align="left
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-         alt="React"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-         alt="TypeScript"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-         alt="JavaScript"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"
-         alt="NextJS"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"
-         alt="NodeJS"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-         alt="Python"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"
-         alt="GraphQL"
-    />
-  </a>
-</div>
+I'm a product-minded developer who loves building robust, performant, user-centric applications. While my expertise lies in frontend development, I enjoy working across the full stack and implementing DevOps practices.
+
+I enjoy:
+
+- Building performant React Native apps that users love
+- Writing clean, well-tested TypeScript code
+- Automating everything that can be automated
+- Making the web and mobile apps accessible to everyone
+- Teaching and mentoring other developers
+
+🎯 What I'm Looking For
+I'm excited by technical challenges across all industries, as each brings unique problems to solve and opportunities to learn. I'm particularly interested in:
+
+📚 EdTech
+🏥 Healthcare
+🌱 AgTech
+🎵 Music
+🏃‍♂️ Sports
+🏛️ Public Services Digitalization
