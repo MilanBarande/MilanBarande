@@ -17,9 +17,9 @@ I enjoy:
 ### 🎯 What I'm Looking For
 I'm excited by technical challenges across all industries, as each brings unique problems to solve and opportunities to learn. I'm particularly interested in:
 
-📚 EdTech
-🏥 Healthcare
-🌱 AgTech
-🎵 Music
-🏃‍♂️ Sports
-🏛️ Public Services Digitalization
+📚 EdTech  
+🏥 Healthcare  
+🌱 AgTech  
+🎵 Music  
+🏃‍♂️ Sports  
+🏛️ Public Services Digitalization  
