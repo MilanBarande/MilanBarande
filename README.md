@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Milan
 
-Senior Frontend Engineer with 7+ years of experience crafting web and mobile experiences. Currently based in Amsterdam 🇳🇱
+Senior Frontend Engineer with 8+ years of experience crafting web and mobile experiences. Currently based in Amsterdam 🇳🇱
 
 ### 🚀 About Me
 
